@@ -13,7 +13,7 @@
 - 🔭 Trabajando en proyectos personales como **sistemas de biblioteca, portafolios y herramientas educativas**
 - 👀 Interesado en **desarrollo web, videojuegos y aplicaciones inteligentes**
 - 💬 Preguntame sobre **programación, lógica, diseño de interfaces o ideas creativas**
-- 📫 Cómo contactarme: **agustinrgonzalez.dev@gmail.com**
+- 📫 Cómo contactarme: **romanagustingonzalez@gmail.com**
 - 😄 Pronombres: **Él / He**
 
 ---
