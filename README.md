@@ -20,7 +20,7 @@
 
 ### 🌐 Redes
 
-[![LinkedIn](https://img.shields.io/badge/-Agustín_González-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-gonzalez-dev)](www.linkedin.com/in/agustin-gonzalez-3444a1320)
+[![LinkedIn](https://img.shields.io/badge/-Agustín_González-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-gonzalez-dev)](https://www.linkedin.com/in/agustin-gonzalez-dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/AgustinGonzalez0)](https://github.com/AgustinGonzalez0)
 
 ---
