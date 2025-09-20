@@ -9,8 +9,8 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo **Python, Java, HTML, CSS, JavaScript y SQL**
-- 🔭 Trabajando en proyectos personales como **sistemas de biblioteca, portafolios y herramientas educativas**
+- 🌱 Desarrollador Junior de **Python, Java, HTML, CSS, JavaScript y SQL**
+- 🔭 Trabajando en proyectos personales como **Desarrollo de IA, automatizacion de programas y sistemas de redes**
 - 👀 Interesado en **desarrollo web, videojuegos y aplicaciones inteligentes**
 - 💬 Preguntame sobre **programación, lógica, diseño de interfaces o ideas creativas**
 - 📫 Cómo contactarme: **romanagustingonzalez@gmail.com**
